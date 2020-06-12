@@ -1,0 +1,34 @@
+// “ ” ‘ ’
+
+Numero:
+Fecha:
+Titulo:
+Subtitulo:
+NotaIntro:
+Preguntas: [
+            {
+                Subtitulo:
+                Pregunta:
+                Citas: []
+                Versiculos: []
+                Nota: [
+                    Parrafo1,
+                    Parrafo2,
+                    Parrafo3
+                ] 
+            },
+
+            {
+                Subtitulo:
+                Pregunta:
+                Citas: []
+                Versiculos: []
+                Nota: [
+                    Parrafo1,
+                    Parrafo2,
+                    Parrafo3
+                ] 
+            },
+           ]
+
+

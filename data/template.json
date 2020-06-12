@@ -1,0 +1,17 @@
+{
+  "numero": null,
+  "fecha": null,
+  "titulo": null,
+  "subtitulo": null,
+  "notaIntro": null,
+
+  "preguntas": [
+    {
+      "subtitulo": null,
+      "pregunta": null,
+      "citas": [null, null],
+      "textos": [null, null],
+      "nota": null
+    }
+  ]
+}
